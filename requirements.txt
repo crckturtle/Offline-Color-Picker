@@ -1,1 +1,2 @@
-
+1. Any hardware that can run python 3
+2. Python 3
