@@ -4,7 +4,8 @@ My main purpose was to make something I can use to pick colors offline on a L4T 
 I use it with my nintendo switch while creating themes within my switch's ubuntu CFW.
 
 # Requirements
-Python 3
+1. Computer
+2. Python 3
 
 # Usage
 1. Download
